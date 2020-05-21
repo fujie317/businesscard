@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/fzhang/lib/stanford-corenlp-full-2018-10-05/stanford-corenlp-3.9.2-models.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/poi/poi.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/poi/poi-excelant.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/poi/poi-ooxml.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/poi/poi-ooxml-schemas.jar"/>
+	<classpathentry kind="lib" path="/usr/share/java/poi/poi-scratchpad.jar"/>
+	<classpathentry kind="lib" path="/home/fzhang/.m2/repository/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2.jar" sourcepath="/home/fzhang/.m2/repository/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/fzhang/.m2/repository/edu/stanford/nlp/stanford-corenlp/3.9.2/stanford-corenlp-3.9.2-javadoc.jar!/"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="edu.stanford.nlp"/>
+			<attribute name="maven.artifactId" value="stanford-corenlp"/>
+			<attribute name="maven.version" value="3.9.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/fzhang/.m2/repository/org/apache/commons/commons-collections4/4.3/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="/home/fzhang/.m2/repository/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/fzhang/.m2/repository/com/google/protobuf/protobuf-java/3.6.1/protobuf-java-3.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
